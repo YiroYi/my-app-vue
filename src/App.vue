@@ -36,6 +36,9 @@ export default {
 </script>
 
 <style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
   * {
     box-sizing: border-box;
   }
