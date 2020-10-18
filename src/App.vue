@@ -4,8 +4,16 @@
       <h1>Hello my friends</h1>
     </header>
     <ul>
-      <friend-contact></friend-contact>
-      <friend-contact></friend-contact>
+      <friend-contact
+        name="Kripto"
+        phone-number="434322"
+        email-address="kripto@test.com"
+      ></friend-contact>
+      <friend-contact
+        name="Baily Cobra"
+        phone-number="434322"
+        email-address="baily@test.com"
+      ></friend-contact>
     </ul>
   </section>
 </template>
